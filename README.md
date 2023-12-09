@@ -1,7 +1,11 @@
 # Quant-Winter-Camp-Assignment-1
 
 
+
+
 Please find attached Assignment 1.
+
+The CSV to be used in problem 1 and 2 is daily_data.csv
 
 Instructions:
 
